@@ -5,7 +5,7 @@
 
 ## 1\. 签署贡献者许可协议（CLA）
 
-**首次提交 PR 前必须签署** [**CLA**](https://gist.github.com/yangweibin1982/你的GIST_ID)。
+**首次提交 PR 前必须签署 [CLA](https://gist.githubusercontent.com/yangweibin1982/90d826473480bd20422384809271f5f9/raw/e8a57b378130a495df363a7db9ceea013e906313/CLA.md)**。
 
 * 操作方式：提交 PR 后，机器人（CLA Assistant）会在 PR 下方自动评论，
 点击其中的链接用 GitHub 账号授权即可，耗时约 30 秒；
